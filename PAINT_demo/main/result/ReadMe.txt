@@ -1,0 +1,1 @@
+The PAINT-recontructed image will be saved in this folder.
